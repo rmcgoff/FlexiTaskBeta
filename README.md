@@ -29,10 +29,11 @@ The app also supports various colour blind options, changing the priority colour
 
 <img align="center" width="305.5" height="624.5" src="androidScreenshots/device-2018-08-18-132607.png"><img align="center" width="305.5" height="624.5" src="androidScreenshots/nav2.png">
 
-The history activity lets users view their previously completed tasks
+The history activity lets users view their previously completed tasks and labels can be created to filter tasks
 
 
-
+FUTURE UPDATE:
+Individual notification support for each task (it only supports a daily summary notification at the moment), and a progression tab that lets users set weekly goals and earn badges.
 
 
 ## How it works
