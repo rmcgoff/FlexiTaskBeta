@@ -23,7 +23,7 @@ overdue.
 
 The editor and timeline view for tasks. The more overdue the task is the redder the prority colour is
 
-<img align="center" width="305.5" height="624.5" src="androidScreenshots/device-2018-08-18-132324.png.png"><img align="center" width="305.5" height="624.5" src="androidScreenshots/colorB.png">
+<img align="center" width="305.5" height="624.5" src="androidScreenshots/device-2018-08-18-132324.png"><img align="center" width="305.5" height="624.5" src="androidScreenshots/colorB.png">
 
 The app also supports various colour blind options, changing the priority colours and app colour scheme to be more friendly for colour deficient users
 
